@@ -1,0 +1,6 @@
+{
+    "files.exclude": {
+        "": true,
+        "\"git.path\": \"C:\\\\Program Files\\\\Git\\\\cmd\\\\git.exe\"": true
+    }
+}
