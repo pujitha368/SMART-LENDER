@@ -1,6 +1,6 @@
-SMART-LENDER-Project-Template
+# SMART-LENDER-Project-Template
 
-Repository Structure
+### Repository Structure
 
 1.Brainstorming & Ideation
 
