@@ -56,6 +56,8 @@ Open your preferred web browser and navigate to:
  * Integrating a persistent relational database (MySQL/PostgreSQL) to store user history and application profiles.
  * Deploying the application live onto cloud environments like Render or AWS for public accessibility.
 
+## Website photos
+
 C:\Users\welcome\Pictures\website\web1 (2).png
 
 C:\Users\welcome\Pictures\website\form.png
