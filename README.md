@@ -38,7 +38,7 @@ SmartLender-Application/
 
 💻 How to Run Locally
 1. Clone or Download the Project:
-git clone [https://github.com/your-username/SmartLender-Application.git](https://github.com/your-username/SmartLender-Application.git)
+git clone [[https://github.com/your-username/SmartLender-Application.git](https://github.com/pujitha368/SMART-LENDER.git)]
 cd SmartLender-Application/Flask
 
 2. Install Dependencies:
@@ -55,3 +55,36 @@ Open your preferred web browser and navigate to:
  * Implementing additional algorithms (like XGBoost or Random Forest) to further boost prediction accuracy.
  * Integrating a persistent relational database (MySQL/PostgreSQL) to store user history and application profiles.
  * Deploying the application live onto cloud environments like Render or AWS for public accessibility.
+
+C:\Users\welcome\Pictures\website\web1 (2).png
+
+C:\Users\welcome\Pictures\website\form.png
+
+C:\Users\welcome\Pictures\website\web2.png
+
+C:\Users\welcome\Pictures\website\form 2.png
+
+C:\Users\welcome\Pictures\website\web 3.png
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
