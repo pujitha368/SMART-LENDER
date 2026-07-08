@@ -1,3 +1,5 @@
+##App Link : https://smart-lender-loan-prediction.onrender.com
+
 # 🏦 SmartLender - Loan Prediction Web Application
 
 SmartLender is a Machine Learning-driven web application designed to predict whether a loan application will be approved or not. By analyzing user inputs such as gender, income, credit history, and education level, the system provides an instant, automated assessment.
