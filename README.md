@@ -1,4 +1,4 @@
-##App Link : https://smart-lender-loan-prediction.onrender.com
+#App Link : https://smart-lender-loan-prediction.onrender.com
 
 # 🏦 SmartLender - Loan Prediction Web Application
 
@@ -58,17 +58,27 @@ Open your preferred web browser and navigate to:
  * Integrating a persistent relational database (MySQL/PostgreSQL) to store user history and application profiles.
  * Deploying the application live onto cloud environments like Render or AWS for public accessibility.
 
-## Website photos
+#AI-ML-and-GEN-AI-Track-Project-Template
 
-C:\Users\welcome\Pictures\website\web1 (2).png
+Repository Structure
 
-C:\Users\welcome\Pictures\website\form.png
+1.Brainstorming & Ideation
 
-C:\Users\welcome\Pictures\website\web2.png
+2.Requirement Analysis
 
-C:\Users\welcome\Pictures\website\form 2.png
+3.Project Design Phase
 
-C:\Users\welcome\Pictures\website\web 3.png
+4.Project Planning Phase
+
+5.Project Development Phase
+
+6.Project Testing
+
+7.Project Documentation
+
+8.Project Demonstration
+
+Replace the placeholder files with your team's project deliverables.
 
 
 
